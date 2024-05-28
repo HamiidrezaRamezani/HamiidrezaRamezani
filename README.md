@@ -1,4 +1,6 @@
 ## Hi there 👋
 # I'm Hamidreza 😎
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamiidrezaRamezani)](https://github.com/HamiidrezaRamezani/github-readme-stats)
+<img alt = "my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=HamiidrezaRamezani&show_icons=true"/>
+
+<img alt = "my language" align="left" width="47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HamiidrezaRamezani&layout=compact"/>
